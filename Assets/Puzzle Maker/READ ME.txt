@@ -1,0 +1,4 @@
+* Options menu for puzzle maker can be accessed from unity editor from
+	Window -> PuzzleMaker
+
+* Documentation for Puzzle Maker can be accessed online from PuzzleMaker menu.

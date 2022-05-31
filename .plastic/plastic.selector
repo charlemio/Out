@@ -1,0 +1,4 @@
+repository "Out (1)@dilvangu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
